@@ -1,0 +1,15 @@
+■GRIB2形式データを処理するプログラムwgirb2(入門編)
+格子点形式の気象データは世界気象機関WMOが定めるGRIB2というフォーマットが多く使われている。
+wgrib2はGRIB2形式データを処理するプログラム※米国海洋大気庁（NOAA）が提供
+
+■参考サイト
+〇お天気データサイエンス
+https://ods.n-kishou.co.jp/tech/blog/detail/1923
+
+〇NOAA
+https://www.cpc.ncep.noaa.gov/products/wesley/wgrib2/wgrib2_v3.0.2_changes.html
+https://www.cpc.ncep.noaa.gov/products/wesley/wgrib2/pywgrib2_s_install.html
+
+〇Qiita
+https://qiita.com/kogetaenoki/items/219c1d34cf1846452f79
+https://qiita.com/kogetaenoki/items/2b50f627db3769280dce

@@ -1,0 +1,19 @@
+
+■株式会社ウェザーニュース
+天気予報API
+https://developer.monet-technologies.co.jp/products/2c92a0fe74b89a350174b89f6c1a04b7
+
+■Tellus（衛星データビジネス）
+https://www.tellusxdp.com/ja/about/satellite_data.html
+
+
+教材
+■ウェザーニューズ　×　SIGNATE
+https://signate.jp/competitions/169/tutorials/12
+
+■空畑
+https://sorabatake.jp/16154/
+
+■お天気データサイエンス
+https://ods.n-kishou.co.jp/tech/blog/detail/2239
+
